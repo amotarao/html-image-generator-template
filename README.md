@@ -6,6 +6,7 @@
 
 ```bash
 $ git clone [your-repository-url]
+$ cd [repository-directory]
 $ yarn
 $ yarn add html-image-generator
 ```
