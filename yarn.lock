@@ -449,9 +449,9 @@ has@^1.0.3:
     function-bind "^1.1.1"
 
 html-image-generator@latest:
-  version "0.0.1-alpha.2"
-  resolved "https://registry.yarnpkg.com/html-image-generator/-/html-image-generator-0.0.1-alpha.2.tgz#eccc047c9bef16dcd0c2df7e0c3e890392ff5a11"
-  integrity sha512-bEWU7fp9Ws1y1rEl7xjeD2sAo5t05vT8I7NZzlKakBh9Zf2lhnW9k8iocTOVlEVgASzsXy4GR3AXFOdpzpXRDw==
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/html-image-generator/-/html-image-generator-1.0.0.tgz#c48f0a8a69dbe59def4bac8f4f495ac737938991"
+  integrity sha512-+Mm7K/U9KXhN6zYewf7PFGsu8xin4NZ92uxhHX2/PDQ6xRe1VEhIm/GvDevuA3mzWcwN8bRwy7hzdj1jva56Bg==
   dependencies:
     chokidar "^3.5.3"
     express "^4.18.1"
