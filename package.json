@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "license": "MIT",
   "type": "module",
+  "scripts": {
+    "dev": "html-image-generator dev example-template",
+    "generate": "html-image-generator generate example-template"
+  },
   "dependencies": {
     "html-image-generator": "^0.0.1-alpha.2"
   }
