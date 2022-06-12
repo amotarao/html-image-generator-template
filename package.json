@@ -8,6 +8,6 @@
     "generate": "html-image-generator generate example-template"
   },
   "dependencies": {
-    "html-image-generator": "^0.0.1-alpha.2"
+    "html-image-generator": "latest"
   }
 }

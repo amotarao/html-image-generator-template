@@ -448,7 +448,7 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-html-image-generator@^0.0.1-alpha.2:
+html-image-generator@latest:
   version "0.0.1-alpha.2"
   resolved "https://registry.yarnpkg.com/html-image-generator/-/html-image-generator-0.0.1-alpha.2.tgz#eccc047c9bef16dcd0c2df7e0c3e890392ff5a11"
   integrity sha512-bEWU7fp9Ws1y1rEl7xjeD2sAo5t05vT8I7NZzlKakBh9Zf2lhnW9k8iocTOVlEVgASzsXy4GR3AXFOdpzpXRDw==
